@@ -22,14 +22,18 @@ Here are some ideas to get you started:
 - Currently on Progress of Updating README.md
 
 2022
-- June 2022
-
+- June 2022 
+    Piano Kit: https://johncanero.github.io/PianoKit/
+    El Clasico: https://johncanero.github.io/ElClasico/
 - May 2022
-
+    Healthy Jam: https://johncanero.github.io/HealthyLivingJam/
 - April 2022
-
+    Jam Website: https://johncanero.github.io/JamWebsite/index.html
 - March 2022
+    John Cañero - Curriculum Vitae(CV): https://johncanero.github.io/JohnCaneroCV/
+      
 
+<h1> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h1>
 
 
 
