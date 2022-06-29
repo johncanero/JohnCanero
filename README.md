@@ -1,3 +1,10 @@
+<!--
+**johncanero/JohnCanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+-->
+
+# Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
+
 - 👋 Hi, I’m @johncanero
 - 👀 I’m interested in designing visual arts, architecture and investing
 - 🌱 I’m currently learning how to code especially on the web development stuff
