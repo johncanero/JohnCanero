@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- - 🖥 &nbsp; -->
 
-<h1> Projects </h1>
+<h1> Development Projects </h1>
 
 2022
 - June 2022 
@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 - March 2022
     John Cañero - Curriculum Vitae(CV): https://johncanero.github.io/JohnCaneroCV/
       
+
+<h2> Architectural Projects </h2>
+<h3> Visit at <a href="https://www.instagram.com/johncanero.archi/">johncaneor.archi/a> </h3>
+
+
 
 <h3> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h3>
 <h3> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h3>
