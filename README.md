@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     John Cañero - Curriculum Vitae(CV): https://johncanero.github.io/JohnCaneroCV/
       
 
-<h1> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h1>
+<h3> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h1>
 
 
 
