@@ -33,7 +33,23 @@ Here are some ideas to get you started:
     John Cañero - Curriculum Vitae(CV): https://johncanero.github.io/JohnCaneroCV/
       
 
-<h3> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h1>
+<h3> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h3>
+<h3> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h3>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+<a href=" https://twitter.com/johncaneroo">
+  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/johncanero/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://johncanero.github.io/JamWebsite/index.html)
+<br />
+
+
 
 
 
@@ -43,7 +59,4 @@ You could reach me in multiple platforms:
 - https://twitter.com/johncaneroo 
 - https://www.instagram.com/johncanero/
 
-<!---
-johncanero/johncanero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
