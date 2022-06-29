@@ -24,16 +24,15 @@ Here are some ideas to get you started:
 <h1> Development Projects </h1>
 
 2022
-- June 2022 
-    Piano Kit: https://johncanero.github.io/PianoKit/
+    Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
     
-    El Clasico: https://johncanero.github.io/ElClasico/
-- May 2022
-    Healthy Jam: https://johncanero.github.io/HealthyLivingJam/
-- April 2022
-    Jam Website: https://johncanero.github.io/JamWebsite/index.html
-- March 2022
-    John Cañero - Curriculum Vitae(CV): https://johncanero.github.io/JohnCaneroCV/
+    El Clasico - June 2022: https://johncanero.github.io/ElClasico/
+
+    Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
+
+    Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html
+
+    John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
       
 
 <h2> Architectural Projects </h2>
