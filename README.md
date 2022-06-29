@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 
 # Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
 
-- 👋 Hi, I’m @johncanero
+<h2> 👩‍💻 About Me </h2>
+
 - 👀 I’m interested in designing visual arts, architecture and investing
 - 🌱 I’m currently learning how to code especially on the web development stuff
 - 💞️ I’m looking to collaborate on the community if I have questions and something valuable to contribute on
