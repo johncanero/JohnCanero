@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 🏛️ I’m interested in visual arts and architecture design
 - 🌱 I love to explore and learn about the wonders of technologies
 - 💞️ Enjoying Web Development and building stuffs on the internet
+- 🎓 Self-Taught Web Developer
 
 
 <h2>🛠 Tech Stack</h2>
@@ -33,7 +34,6 @@ Here are some ideas to get you started:
 
 <h3> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h3>
 <h3> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h3>
-
 
 
 <h3> 🤝🏻 Connect with Me </h3>
