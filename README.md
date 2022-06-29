@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 <h2>🛠 Tech Stack</h2>
-- 🌐 &nbsp; <img alt="htmlPng" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/> HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication
+- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication
 
 
 
