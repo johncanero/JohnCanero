@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 
 
 <h2>🛠 Tech Stack</h2>
-- 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication
+- 🌐 &nbsp; <img align="left" alt="Deepa" width="22px"src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/> HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication
+
+
+
 
 <!-- - 🖥 &nbsp; -->
 
@@ -43,13 +46,13 @@ Here are some ideas to get you started:
 
 <h3> 🤝🏻 Connect with Me </h3>
 <a href=" https://twitter.com/johncaneroo">
-  <img align="left" alt="Deepa" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="twitterPng" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/johncanero/">
-  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="linkedinPng" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href=" https://www.instagram.com/johncanero/">
-  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="instagramPng" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br>
 
