@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 
-# Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
+# Hi 👋🏽, I'm [Jam]("https://johncanero.github.io/JamWebsite/" target="_blank")
 
 - 👋 Hi, I’m @johncanero
 - 👀 I’m interested in designing visual arts, architecture and investing
