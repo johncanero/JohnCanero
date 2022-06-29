@@ -46,6 +46,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+
+
 ![](https://johncanero.github.io/JamWebsite/index.html)
 <br />
 
