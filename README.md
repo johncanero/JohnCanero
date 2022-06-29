@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 2022
 - June 2022 
     Piano Kit: https://johncanero.github.io/PianoKit/
+    
     El Clasico: https://johncanero.github.io/ElClasico/
 - May 2022
     Healthy Jam: https://johncanero.github.io/HealthyLivingJam/
