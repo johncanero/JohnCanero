@@ -45,20 +45,12 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/johncanero/">
   <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href=" https://www.instagram.com/johncanero/">
+  <img align="left" alt="Deepa's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
 
 
 
-![](https://johncanero.github.io/JamWebsite/index.html)
-<br />
-
-
-
-
-
-- 📫 How to reach me...
-
-You could reach me in multiple platforms:
-- https://twitter.com/johncaneroo 
-- https://www.instagram.com/johncanero/
 
 
