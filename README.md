@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🏛️ I’m interested in visual arts and architecture design
 - 🌱 I love to explore and learn about the wonders of technologies
 - 💞️ Enjoying Web Development and building stuffs on the internet
-- 🎓 Self-Taught Web Developer
+- 🎓 Self-Taught Incoming Web Developer
 
 
 <h2>🛠 Tech Stack</h2>
