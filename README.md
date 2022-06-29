@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <h1> Projects </h1>
 
-- Currently on Progress of Updating README.md
-
 2022
 - June 2022 
     Piano Kit: https://johncanero.github.io/PianoKit/
