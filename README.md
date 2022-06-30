@@ -5,12 +5,14 @@ Here are some ideas to get you started:
 
 # Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
 
+Developer, Designer & Curious Learner
+
 <h2> 👩‍💻 About Me </h2>
 
 - 🏛️ I’m interested in visual arts and architecture design
 - 🌱 I love to explore and learn about the wonders of technologies
 - 💞️ Enjoying Web Development and building stuffs on the internet
-- 🎓 Self-Taught Incoming Web Developer
+- 🎓 Self-Taught Web Developer
 
 
 <h2>🛠 Tech Stack</h2>
