@@ -19,8 +19,8 @@ Developer, Architectural Designer & Curious Learner
 <img src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 
-<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<a href="https://www.github.com/johncanero" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/johncanero?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 
 
