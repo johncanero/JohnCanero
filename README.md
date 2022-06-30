@@ -60,7 +60,6 @@ Web Developer, Architectural Designer & Curious Learner
 
     - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
 
-
 <br/>
 <h2>Architectural Projects</h2>
   Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> 
