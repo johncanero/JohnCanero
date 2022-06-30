@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 # Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
 
 Developer, Designer & Curious Learner
+-----------------------------
 
 <h2> 👩‍💻 About Me </h2>
 
