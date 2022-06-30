@@ -80,18 +80,18 @@ Developer, Architectural Designer & Curious Learner
 <br/>
 
 
-
 <h3> 🤝🏻 Connect with Me </h3>
-<a href=" https://twitter.com/johncaneroo">
-  <img align="left" alt="twitterPng" width="22px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/johncanero/">
-  <img align="left" alt="linkedinPng" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href=" https://www.instagram.com/johncanero/">
-  <img align="left" alt="instagramPng" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br>
+<p align="left">
+<a href="https://www.github.com/johncanero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+
+<a href="https://www.linkedin.com/in/johncanero/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+
+<a href="http://www.instagram.com/johncanero" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+
+<a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
+
+
 
 
 
