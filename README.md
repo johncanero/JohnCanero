@@ -64,7 +64,13 @@ Developer, Architectural Designer & Curious Learner
 <h3> Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> </h3>
 
 <br/>
-<h1> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h1>
+<h2>Architectural Projects at <a href="ttps://www.instagram.com/johncanero.archi/">johncanero.archi</a> </h2>
+  My architectural portfolio of works and design.
+<br/>
+
+
+<br/>
+<h2> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
  Started blogging on about investing on oneself, realizations & thoughts and life. 
 <br/>
 
