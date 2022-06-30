@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
 
-
+<p align="left">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketchup-colored.svg" width="36" height="36" alt="Sketchup" /></a>
+</p>
 
 <!-- - 🖥 &nbsp; -->
 
