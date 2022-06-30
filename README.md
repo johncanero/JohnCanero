@@ -67,12 +67,10 @@ Developer, Architectural Designer & Curious Learner
   My architectural portfolio of works and design.
 <br/>
 
-
 <br/>
 <h2> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
  Started blogging on about investing on oneself, realizations & thoughts and life. 
 <br/>
-
 
 <br/>
 <h2> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h2>
