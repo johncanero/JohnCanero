@@ -16,7 +16,7 @@ Developer, Architectural Designer & Curious Learner
 - 🎓 Self-Taught Web Developer
 
 <a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/danielcranney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+<img src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
 </a>
 
 <a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer">
