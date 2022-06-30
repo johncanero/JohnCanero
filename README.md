@@ -15,6 +15,14 @@ Developer, Architectural Designer & Curious Learner
 - 💞️ Enjoying Web Development and building stuffs on the internet
 - 🎓 Self-Taught Web Developer
 
+<a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/twitter/follow/danielcranney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+
+<a href="https://www.github.com/danielcranney" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+
 
 <h2>🛠 Tech Stack</h2>
 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication | Bootstrap
