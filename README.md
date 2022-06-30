@@ -63,6 +63,7 @@ Developer, Architectural Designer & Curious Learner
 <br/>
 <h2>Architectural Projects</h2>
   Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> 
+
   My architectural portfolio of works and design.
 <br/>
 
@@ -73,7 +74,11 @@ Developer, Architectural Designer & Curious Learner
 <br/>
 
 
-<h3> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h3>
+<br/>
+<h2> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h2>
+ Started posting videos about design, creativity and investing. 
+<br/>
+
 
 
 <h3> 🤝🏻 Connect with Me </h3>
