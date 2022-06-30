@@ -48,6 +48,7 @@ Developer, Architectural Designer & Curious Learner
 <h1> Development Projects </h1>
 
 2022
+
     - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
  
     - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
