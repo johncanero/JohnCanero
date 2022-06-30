@@ -43,7 +43,7 @@ Here are some ideas to get you started:
       
 
 <h2> Architectural Projects </h2>
-<h3> Visit at <a href="https://www.instagram.com/johncanero.archi/">johncaneor.archi</a> </h3>
+<h3> Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> </h3>
 
 
 
