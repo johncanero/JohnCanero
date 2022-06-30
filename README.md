@@ -58,13 +58,11 @@ Developer, Architectural Designer & Curious Learner
     -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html
 
     - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
-      
 
-<h2> Architectural Projects </h2>
-<h3> Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> </h3>
 
 <br/>
-<h2>Architectural Projects at <a href="ttps://www.instagram.com/johncanero.archi/">johncanero.archi</a> </h2>
+<h2>Architectural Projects</h2>
+  Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> 
   My architectural portfolio of works and design.
 <br/>
 
