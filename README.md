@@ -92,6 +92,6 @@ Developer, Architectural Designer & Curious Learner
 
 
 
-
+<!-- Inspired by README.md of https://github.com/danielcranney --!>
 
 
