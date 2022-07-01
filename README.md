@@ -49,6 +49,7 @@ Web Developer, Architectural Designer & Curious Learner
 <h1> Development Projects </h1>
 
 2022
+
     - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
 
     - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
