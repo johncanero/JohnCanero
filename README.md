@@ -50,17 +50,12 @@ Web Developer, Architectural Designer & Curious Learner
 
 2022
 
-    - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
-
-    - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
- 
-    - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
-
-    - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
-
-    -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html
-
-    - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
+ - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
+ - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
+ - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
+ - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
+ -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html
+ - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
 
 <br/>
 <h2>Architectural Projects</h2>
