@@ -24,7 +24,7 @@ Web Developer, Architectural Designer & Curious Learner
 </a>
 
 
-<h2>🛠 Tech Stack</h2>
+# 🔧 Technologies & Tools
 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication | Bootstrap | Currently studying: EJS and taking the Odin Project
 
 <p align="left">
