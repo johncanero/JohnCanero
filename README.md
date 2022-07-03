@@ -27,6 +27,22 @@ Web Developer, Architectural Designer & Curious Learner
 # 🔧 Technologies & Tools
 🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication | Bootstrap | Currently studying: EJS and taking the Odin Project
 
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+   </tr>
+ </table>
+
+
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
