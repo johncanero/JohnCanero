@@ -75,24 +75,6 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Express</strong>
     </td>
-   <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-      <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-plain.svg"
-        width="48"
-        height="48"
-        alt="api"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
