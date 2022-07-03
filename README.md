@@ -56,6 +56,15 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>JavaScript</strong>
     </td>
+        <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -73,15 +82,6 @@ Web Developer, Architectural Designer & Curious Learner
         alt="Express"
       />
       <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -150,8 +150,6 @@ Web Developer, Architectural Designer & Curious Learner
 </table>
 
 ✍️ &nbsp; Architecture Design 
-
- | Lumion | Enscape
 
 <table>
  <tr>
