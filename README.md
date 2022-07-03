@@ -157,6 +157,15 @@ Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
  <tr>
      <td align="center" height="108" width="108">
       <img
+        src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+        width="48"
+        height="48"
+        alt="Autocad"
+      />
+      <br/><strong>Autocad</strong>
+    </td>
+     <td align="center" height="108" width="108">
+      <img
         src="https://hlc.so/wp-content/uploads/2020/04/autocad-d1d797239b.png"
         width="48"
         height="48"
@@ -164,6 +173,9 @@ Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
       />
       <br/><strong>Autocad</strong>
     </td>
+   
+   
+
  </tr>
  </table>
 
