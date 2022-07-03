@@ -153,6 +153,8 @@ Web Developer, Architectural Designer & Curious Learner
 
 Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
 
+<!-- https://github.com/devicons/devicon/tree/master/icons -->
+
 
 <h1> Development Projects </h1>
 
