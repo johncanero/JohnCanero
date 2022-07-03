@@ -119,6 +119,18 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Figma</strong>
     </td>
+    
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/photoshop-plain.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>Figma</strong>
+    </td>
+    
+    
   </tr>
 </table>
 
