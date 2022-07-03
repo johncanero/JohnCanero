@@ -25,7 +25,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 
 # 🔧 Technologies & Tools
-🌐 &nbsp; HTML5 | CSS3 | JavaScript | Node.js | Express | API | Authentication | Bootstrap | Currently studying: EJS and taking the Odin Project
+🌐 &nbsp; Web Development
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 
 
-📇 &nbsp; Figma | Photoshop | Illustrator | Premiere Pro 
+📇 &nbsp; Design
 
 <table>
   <tr>
@@ -149,7 +149,9 @@ Web Developer, Architectural Designer & Curious Learner
   </tr>
 </table>
 
-✍️ &nbsp; Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
+✍️ &nbsp; Architecture Design 
+
+Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
 
 
 <h1> Development Projects </h1>
