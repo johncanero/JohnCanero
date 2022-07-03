@@ -121,7 +121,7 @@ Web Developer, Architectural Designer & Curious Learner
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"
         width="48"
         height="48"
         alt="Photoshop"
@@ -137,9 +137,15 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Illustrator</strong>
     </td>
-    
-    
-    
+       <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
+        width="48"
+        height="48"
+        alt="PremirePro"
+      />
+      <br /><strong>Premiere Pro</strong>
+    </td>
   </tr>
 </table>
 
