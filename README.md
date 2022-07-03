@@ -153,6 +153,22 @@ Web Developer, Architectural Designer & Curious Learner
 
 Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
 
+<table>
+ <tr>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://hlc.so/wp-content/uploads/2020/04/autocad-d1d797239b.png"
+        width="48"
+        height="48"
+        alt="Autocad"
+      />
+      <br/><strong>Autocad</strong>
+    </td>
+ </tr>
+ </table>
+
+
+
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 
 
