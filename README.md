@@ -106,7 +106,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 
 
-📇 &nbsp; Design
+📇 &nbsp; Design Graphics
 
 <table>
   <tr>
@@ -151,7 +151,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 ✍️ &nbsp; Architecture Design 
 
-Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
+ | Lumion | Enscape
 
 <table>
  <tr>
@@ -182,7 +182,24 @@ Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
       />
       <br/><strong>SketchUp</strong>
     </td>
-   
+    <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/L/lumion-3d-logo-948AF388BD-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="Lumion"
+      />
+      <br/><strong>Lumion</strong>
+    </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://gbdmagazine.com/wp-content/uploads/2022/04/Final_Enscape_Logo-Icon.png"
+        width="48"
+        height="48"
+        alt="Enscape"
+      />
+      <br/><strong>Enscape</strong>
+    </td>
 
  </tr>
  </table>
