@@ -157,7 +157,7 @@ Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
  <tr>
      <td align="center" height="108" width="108">
       <img
-        src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png"
+        src="https://hlc.so/wp-content/uploads/2020/04/autocad-d1d797239b.png"
         width="48"
         height="48"
         alt="Autocad"
@@ -166,14 +166,22 @@ Autodesk Autocad | Revit | SketchUp | Lumion | Enscape
     </td>
      <td align="center" height="108" width="108">
       <img
-        src="https://hlc.so/wp-content/uploads/2020/04/autocad-d1d797239b.png"
+        src="https://w7.pngwing.com/pngs/161/856/png-transparent-autodesk-revit-architecture-building-information-modeling-computer-software-design-angle-text-logo-thumbnail.png"
         width="48"
         height="48"
-        alt="Autocad"
+        alt="Revit"
       />
-      <br/><strong>Autocad</strong>
+      <br/><strong>Revit</strong>
     </td>
-   
+     <td align="center" height="108" width="108">
+      <img
+        src="https://seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png"
+        width="48"
+        height="48"
+        alt="SketchUp"
+      />
+      <br/><strong>SketchUp</strong>
+    </td>
    
 
  </tr>
