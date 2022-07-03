@@ -117,18 +117,27 @@ Web Developer, Architectural Designer & Curious Learner
         height="48"
         alt="Figma"
       />
-      <br /><strong>Figma</strong>
+      <br/><strong>Figma</strong>
     </td>
-    
      <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/photoshop-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
         width="48"
         height="48"
-        alt="Figma"
+        alt="Photoshop"
       />
-      <br /><strong>Figma</strong>
+      <br /><strong>Photoshop</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"
+        width="48"
+        height="48"
+        alt="Illustrator"
+      />
+      <br /><strong>Illustrator</strong>
+    </td>
+    
     
     
   </tr>
