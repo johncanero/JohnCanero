@@ -221,10 +221,10 @@ Web Developer, Architectural Designer & Curious Learner
 <h1> Development Projects </h1>
 
 2022
-
+ 
+ - Newsletter - SignUp Page - July 2022: https://serene-glacier-70792.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
  - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
- - Newsletter - SignUp Page: https://mighty-oasis-87750.herokuapp.com/
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
  - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
