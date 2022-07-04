@@ -220,7 +220,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 2022
 
- - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ (Currently in-Progress)
+ - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
  - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
  - Newsletter - SignUp Page: https://mighty-oasis-87750.herokuapp.com/
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
