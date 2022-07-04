@@ -5,6 +5,8 @@ Here are some ideas to get you started:
 
 # Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
 
+I love building and creating stuffs. Currently, I am in my Senior Year as an Architecture Student. At the side, I focus on leaning on Web Development (Fullstack Development). I am so musch excited on the future and to learn this skills and show it up on the outside world. Let's keep going! 
+
 Web Developer, Architectural Designer & Curious Learner
 -----------------------------
 
