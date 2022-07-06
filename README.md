@@ -222,6 +222,10 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h1> Development Projects </h1>
 
+Python 
+ - Band Name Generator - https://github.com/johncanero/BandName-Generator 
+
+
 2022
  
  - Newsletter - SignUp Page - July 2022: https://serene-glacier-70792.herokuapp.com/
