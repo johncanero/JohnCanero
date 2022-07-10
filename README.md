@@ -137,6 +137,15 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>VS Code</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg"
+        width="48"
+        height="48"
+        alt="atom"
+      />
+      <br /><strong>Atom</strong>
+    </td>
    </tr>
  </table>
 
