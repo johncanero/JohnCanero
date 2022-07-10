@@ -114,9 +114,12 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Heroku</strong>
     </td>
-    
-    
-     <td align="center" height="108" width="108">
+   </tr>
+ </table>
+ 
+ <table>
+   <tr>
+       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
@@ -134,7 +137,6 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>EJS</strong>
     </td>
-    
    </tr>
  </table>
 
