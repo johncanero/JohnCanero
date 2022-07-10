@@ -229,7 +229,7 @@ Python
 
 2022
  
- - ToDoList: Jam - July 2022: https://github.com/johncanero/ToDoList-Jam (In - Progress)
+ - ToDoList: Jam - July 2022:  https://to-do-list-jam-heroku.herokuapp.com/ 
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
  - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
