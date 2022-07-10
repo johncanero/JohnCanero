@@ -107,7 +107,8 @@ Web Developer, Architectural Designer & Curious Learner
     </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
+        /heroku-original.svg"
         width="48"
         height="48"
         alt="Heroku"
@@ -229,7 +230,7 @@ Python
 2022
  
  - ToDoList: Jam - July 2022: https://github.com/johncanero/ToDoList-Jam (In - Progress)
- - Newsletter - SignUp Page - July 2022: https://serene-glacier-70792.herokuapp.com/
+ - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
  - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
