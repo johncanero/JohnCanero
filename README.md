@@ -105,7 +105,21 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Npm</strong>
     </td>
-      <td align="center" height="108" width="108">
+   </tr>
+ </table>
+ 
+ <table>
+   <tr>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://progsoft.net/images/ejs-icon-bccf3f017751a71ee75c69021ee1020fc0d9067e.jpg"
+        width="48"
+        height="48"
+        alt="ejs"
+      />
+      <br /><strong>EJS</strong>
+    </td>  
+     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"
         width="48"
@@ -114,12 +128,7 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Heroku</strong>
     </td>
-   </tr>
- </table>
- 
- <table>
-   <tr>
-       <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
@@ -127,15 +136,6 @@ Web Developer, Architectural Designer & Curious Learner
         alt="vscode"
       />
       <br /><strong>VS Code</strong>
-    </td>
-     <td align="center" height="108" width="108">
-      <img
-        src="https://progsoft.net/images/ejs-icon-bccf3f017751a71ee75c69021ee1020fc0d9067e.jpg"
-        width="48"
-        height="48"
-        alt="ejs"
-      />
-      <br /><strong>EJS</strong>
     </td>
    </tr>
  </table>
