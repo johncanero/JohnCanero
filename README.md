@@ -123,6 +123,17 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>VS Code</strong>
     </td>
+    
+     <td align="center" height="108" width="108">
+      <img
+        src="https://progsoft.net/images/ejs-icon-bccf3f017751a71ee75c69021ee1020fc0d9067e.jpg"
+        width="48"
+        height="48"
+        alt="ejs"
+      />
+      <br /><strong>EJS</strong>
+    </td>
+    
    </tr>
  </table>
 
