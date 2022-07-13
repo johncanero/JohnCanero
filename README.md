@@ -259,7 +259,8 @@ Python
 
 
 2022
- - BlogWebsite Jam - July 2022 - https://github.com/johncanero/BlogWebsite-Jam (In-Progress) Heroku: https://blog-website-jam-heroku.herokuapp.com/
+ - BlogWebsite Jam - July 2022 - https://github.com/johncanero/BlogWebsite-Jam (In-Progress) 
+   BlogWebsite Jam - Heroku: https://blog-website-jam-heroku.herokuapp.com/ (In - Progress)
  - ToDoList: Jam - July 2022:  https://to-do-list-jam-heroku.herokuapp.com/ 
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
