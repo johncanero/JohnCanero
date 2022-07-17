@@ -126,7 +126,7 @@ Web Developer, Architectural Designer & Curious Learner
         height="48"
         alt="MongoDB"
       />
-      <br /><strong>MongoDB/strong>
+      <br /><strong>MongoDB</strong>
     </td>
      <td align="center" height="108" width="108">
       <img
