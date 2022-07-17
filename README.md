@@ -126,6 +126,15 @@ Web Developer, Architectural Designer & Curious Learner
         height="48"
         alt="Heroku"
       />
+     <br /><strong>MongoDB</strong>
+    </td>  
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
       <br /><strong>Heroku</strong>
     </td>
       <td align="center" height="108" width="108">
