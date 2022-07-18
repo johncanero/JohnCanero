@@ -277,7 +277,7 @@ Python
  - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
  -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html
- - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/
+ - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ (Fix Media Queries)
 
 <br/>
 <h2>Architectural Projects</h2>
