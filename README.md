@@ -281,7 +281,7 @@ Python
  - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ (Fix Bug Problem - Ongoing)
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
  - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
- - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/
+ - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
  -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html 
  - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
 
