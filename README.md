@@ -274,7 +274,7 @@ Python
 
 
 2022
- - BlogWebsite Jam - July 2022 - https://blog-website-jam-heroku.herokuapp.com/ 
+ - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
