@@ -3,6 +3,12 @@
 Here are some ideas to get you started:
 -->
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Jam;I'm+a+Mobile+Developer;Nice+to+meet+you+%3A)&size=30">
+  </a>
+</h1>
+
 # Hi 👋🏽, I'm [Jam](https://johncanero.github.io/JamWebsite/)
 
 I love building and creating stuffs. 💛 I am now in my senior year as an Architecture Student. It came to a point I want to use the skills and experiences I gained in the physical design field and use it in programming. 
