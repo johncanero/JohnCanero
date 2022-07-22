@@ -274,6 +274,7 @@ Python
 
 
 2022
+ - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
