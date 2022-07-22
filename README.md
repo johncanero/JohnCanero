@@ -25,14 +25,14 @@ Web Developer, Architectural Designer & Curious Learner
 - 💞️ Enjoying Web Development and building stuffs on the internet
 - 🎓 Self-Taught Web Developer
 
-<a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-
-<a href="https://www.github.com/johncanero" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/johncanero?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
-</a>
-
+<div> 
+  <a href = "mailto:johncanero.official@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/johncanero/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/johncaneroo"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+  <a href="https://instagram.com/johncanero" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  
+  
 
 # 🔧 Technologies & Tools
 🌐 &nbsp; Web Development
