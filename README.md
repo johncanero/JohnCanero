@@ -164,7 +164,7 @@ Web Developer, Architectural Designer & Curious Learner
    </tr>
  </table>
 
-
+Currently learning React Js
 
 📇 &nbsp; Design Graphics
 
