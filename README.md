@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-# <h1 align="center">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="left">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 I love building and creating stuffs. 💛 I am now in my senior year as an Architecture Student. It came to a point I want to use the skills and experiences I gained in the physical design field and use it in programming. 
 
