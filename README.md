@@ -278,7 +278,7 @@ React JS Projects (2022)
  - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
  - Login Flow - August 2022 - https://johncanero.github.io/login-flow/
  - Number Adder - August 2022 - https://johncanero.github.io/number-state/
- - Get Time - August 2022 -http://localhost:3000/get-time-state
+ - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
 
 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
