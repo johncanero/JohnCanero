@@ -273,6 +273,12 @@ Python
  - Band Name Generator - https://github.com/johncanero/BandName-Generator 
 
 
+React JS Projects (2022)
+ - My Contacts - August 2022 - https://johncanero.github.io/my-contacts/
+ - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
+ - Login Flow - August 2022 - https://johncanero.github.io/login-flow/?
+ - Get Time - August 2022 -http://localhost:3000/get-time-state
+
 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
