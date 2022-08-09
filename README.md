@@ -280,6 +280,7 @@ React JS Projects (2022)
  - Number Adder - August 2022 - https://johncanero.github.io/number-state/
  - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
+ - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
 
 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
