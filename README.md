@@ -269,19 +269,6 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h1> Development Projects </h1>
 
-Python 
- - Band Name Generator - https://github.com/johncanero/BandName-Generator 
-
-
-React JS Projects (2022)
- - My Contacts - August 2022 - https://johncanero.github.io/my-contacts/
- - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
- - Login Flow - August 2022 - https://johncanero.github.io/login-flow/
- - Number Adder - August 2022 - https://johncanero.github.io/number-state/
- - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
- - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
- - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
-
 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
@@ -292,8 +279,23 @@ React JS Projects (2022)
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
  - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
- -  Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html 
+ - Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html 
  - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
+ 
+ 
+React JS Projects (2022)
+ - My Contacts - August 2022 - https://johncanero.github.io/my-contacts/
+ - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
+ - Login Flow - August 2022 - https://johncanero.github.io/login-flow/
+ - Number Adder - August 2022 - https://johncanero.github.io/number-state/
+ - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
+ - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
+ - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
+ 
+ 
+ Python 
+ - Band Name Generator - https://github.com/johncanero/BandName-Generator 
+ 
 
 <br/>
 <h2>Architectural Projects</h2>
