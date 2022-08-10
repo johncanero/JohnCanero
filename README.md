@@ -302,6 +302,7 @@ React JS Projects (2022)
  - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
+ - To Do List Project - August 2022 - https://johncanero.github.io/to-do-list/
  
  
  Python 
