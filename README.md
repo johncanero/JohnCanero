@@ -303,6 +303,7 @@ React JS Projects (2022)
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
  - To Do List Project - August 2022 - https://johncanero.github.io/to-do-list/
+ - Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
  
  
  Python 
