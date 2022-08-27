@@ -286,15 +286,17 @@ Web Developer, Architectural Designer & Curious Learner
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
- - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ (Fix Bug Problem - Ongoing)
+ - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
  - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
  - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
  - Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html 
  - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
  
+React JS Projects - Scrimba (2022)
+- Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
  
-React JS Projects (2022)
+React JS Projects - Udemy (2022)
  - My Contacts - August 2022 - https://johncanero.github.io/my-contacts/
  - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
  - Login Flow - August 2022 - https://johncanero.github.io/login-flow/
