@@ -294,8 +294,7 @@ React JS Projects - Scrimba (2022)
  - Band Name Generator - https://github.com/johncanero/BandName-Generator 
  
 
-<!--
-2022
+<!-- 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
@@ -313,8 +312,8 @@ React JS Projects - Udemy (2022)
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
  - To Do List Project - August 2022 - https://johncanero.github.io/to-do-list/
- - Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
- -- >
+ - Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/ -->
+
 
 
 <br/>
