@@ -282,6 +282,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 React JS Projects - Scrimba (2022)
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
+- React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
 
 2022 
 - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
