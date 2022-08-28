@@ -283,18 +283,25 @@ Web Developer, Architectural Designer & Curious Learner
 React JS Projects - Scrimba (2022)
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 
+2022 
+- John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
+- John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
+- Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
+- El Clasico - June 2022: https://johncanero.github.io/ElClasico/
+- Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
+
+ Python 
+ - Band Name Generator - https://github.com/johncanero/BandName-Generator 
+ 
+
+<!--
 2022
  - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
  - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
- - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
- - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
- - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
- - Jam Website - April 2022: https://johncanero.github.io/JamWebsite/index.html 
- - John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
 
  
 React JS Projects - Udemy (2022)
@@ -307,11 +314,8 @@ React JS Projects - Udemy (2022)
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
  - To Do List Project - August 2022 - https://johncanero.github.io/to-do-list/
  - Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
- 
- 
- Python 
- - Band Name Generator - https://github.com/johncanero/BandName-Generator 
- 
+ -- >
+
 
 <br/>
 <h2>Architectural Projects</h2>
