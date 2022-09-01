@@ -280,7 +280,7 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h1> Development Projects </h1>
 
-FrontEnd Mentor Challenges (2022)
+FrontEnd Mentor (2022)
 - Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
 
 React JS Projects - Scrimba (2022)
