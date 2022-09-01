@@ -280,6 +280,9 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h1> Development Projects </h1>
 
+FrontEnd Mentor Challenges (2022)
+- Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
+
 React JS Projects - Scrimba (2022)
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 - React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
