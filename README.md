@@ -355,8 +355,8 @@ React JS Projects - Udemy (2022)
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/johncanero"><img src="https://github-readme-stats.vercel.app/api?username=johncanero&theme=react" alt="johncanero's GitHub stats" /></a>
-<a href="http://www.github.com/johncanero"><img src="https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1c1917&theme=react-dark&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/johncanero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&langs_count=3&theme=react&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/johncanero"><img src="https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1c1917&theme=react-dark&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
