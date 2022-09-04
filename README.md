@@ -289,7 +289,9 @@ Web Developer, Architectural Designer & Curious Learner
 <h1> Development Projects </h1>
 
 FrontEnd Mentor (2022)
+- Product Review Component - September 2022 - https://charming-kheer-afc3a1.netlify.app/
 - Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
+
 
 React JS Projects - Scrimba (2022)
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
@@ -303,7 +305,7 @@ Udemy Web Development Bootcamp (2022)
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
-- My Contacts: Football Icons - https://charming-kheer-afc3a1.netlify.app/
+- My Contacts: Football Icons - https://steady-entremet-c7272f.netlify.app/
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
