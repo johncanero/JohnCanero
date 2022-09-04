@@ -305,13 +305,14 @@ Udemy Web Development Bootcamp (2022)
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
-- My Contacts: Football Icons - https://steady-entremet-c7272f.netlify.app/
+- My Contacts: Football Icons August 2022 - https://steady-entremet-c7272f.netlify.app/
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
 
  Python 
  - Band Name Generator - https://github.com/johncanero/BandName-Generator 
+ 
  
 
 <!-- 2022
