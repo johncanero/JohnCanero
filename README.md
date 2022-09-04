@@ -303,6 +303,7 @@ Udemy Web Development Bootcamp (2022)
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
+- My Contacts: Football Icons - https://charming-kheer-afc3a1.netlify.app/
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
