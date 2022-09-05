@@ -306,7 +306,7 @@ Udemy Web Development Bootcamp (2022)
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
 - My Contacts: Football Icons - August 2022: https://steady-entremet-c7272f.netlify.app/
-- Emojipedi - August 2022: https://inquisitive-kulfi-b8a374.netlify.app/]
+- Emojipedia - August 2022: https://inquisitive-kulfi-b8a374.netlify.app/]
 - Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
 
 The Odin Project 
