@@ -305,7 +305,9 @@ Udemy Web Development Bootcamp (2022)
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
-- My Contacts: Football Icons August 2022 - https://steady-entremet-c7272f.netlify.app/
+- My Contacts: Football Icons - August 2022: https://steady-entremet-c7272f.netlify.app/
+- Emojipedi - August 2022: https://inquisitive-kulfi-b8a374.netlify.app/]
+- Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
@@ -320,14 +322,10 @@ The Odin Project
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
- - Rock Paper Scissors - July 2022: https://johncanero.github.io/RockPaperScissors/ 
  - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
 
  
 React JS Projects - Udemy (2022)
- - My Contacts - August 2022 - https://johncanero.github.io/my-contacts/
- - Emojipedia - August 2022 - https://johncanero.github.io/emojipedia/
- - Login Flow - August 2022 - https://johncanero.github.io/login-flow/
  - Number Adder - August 2022 - https://johncanero.github.io/number-state/
  - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
