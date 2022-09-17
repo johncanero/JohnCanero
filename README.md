@@ -312,6 +312,7 @@ Udemy Web Development Bootcamp (2022)
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
 - Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
 - Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
+- Get Time - August 2022 - https://get-time-state-by-johncanero.vercel.app/
 - Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
@@ -338,7 +339,6 @@ The Odin Project
 
  
 React JS Projects - Udemy (2022)
- - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
  - To Do List Project - August 2022 - https://johncanero.github.io/to-do-list/
