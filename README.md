@@ -294,8 +294,8 @@ FrontEnd Mentor (2022)
 
 
 React JS Projects - Scrimba (2022)
-- Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 - AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
+- Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 - React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
 
 2022 
@@ -303,12 +303,13 @@ React JS Projects - Scrimba (2022)
 - John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
 
 Udemy Web Development Bootcamp (2022)
-- Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
-- El Clasico - June 2022: https://johncanero.github.io/ElClasico/
-- Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
 - Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
 - Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
+- Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
+- Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
+- El Clasico - June 2022: https://johncanero.github.io/ElClasico/
+- Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
@@ -327,7 +328,6 @@ The Odin Project
 
  
 React JS Projects - Udemy (2022)
- - Number Adder - August 2022 - https://johncanero.github.io/number-state/
  - Get Time - August 2022 - https://johncanero.github.io/get-time-state/
  - Hello Event Handling - August 2022 - https://johncanero.github.io/hello-event-handling/
  - Hello First-Last Name Complext State - August 2022 - https://johncanero.github.io/hello-flname-complex-state/
