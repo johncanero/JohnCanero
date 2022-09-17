@@ -179,6 +179,15 @@ Web Developer, Architectural Designer & Curious Learner
       />
       <br /><strong>Tailwind CSS</strong>
     </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="nextjs"
+      />
+      <br /><strong>Next Js</strong>
+    </td>
      
    </tr>
  </table>
