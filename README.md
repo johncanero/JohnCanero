@@ -305,8 +305,8 @@ React JS Projects - Scrimba (2022)
 Udemy Web Development Bootcamp (2022)
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
 - Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
-- Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
 - Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
+- Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
