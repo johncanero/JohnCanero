@@ -298,9 +298,6 @@ React JS Projects - Scrimba (2022)
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 - React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
 
-2022 
-- John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
-- John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
 
 Udemy Web Development Bootcamp (2022)
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
@@ -310,6 +307,10 @@ Udemy Web Development Bootcamp (2022)
 - Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
 - El Clasico - June 2022: https://johncanero.github.io/ElClasico/
 - Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
+
+2022 
+- John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
+- John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
 
 The Odin Project 
 - Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
