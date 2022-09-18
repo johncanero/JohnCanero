@@ -313,6 +313,7 @@ Udemy Web Development Bootcamp (2022)
 - Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
 - Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
 - To Do List Project - August 2022 - https://to-do-list-ten-by-johncanero.vercel.app/
+- Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
 - Get Time - August 2022 - https://get-time-state-by-johncanero.vercel.app/
 - Hello Welcome - August 2022 - https://hello-welcome-state-by-johncanero.vercel.app/
 - Hello Event - August 2022 - https://hello-event-handling-johncanero.vercel.app/
@@ -338,11 +339,7 @@ The Odin Project
  - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
  - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
  - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
- - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring)
-
- 
-React JS Projects - Udemy (2022)
- - Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/ -->
+ - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring) -->
 
 
 
