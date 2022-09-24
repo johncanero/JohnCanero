@@ -16,10 +16,10 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h2> 👩‍💻 About Me </h2>
 * 🌍 I'm based in the Philippines
-- 🏛️ I’m currently an Architecture Student
-- ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
-- 🧠 I'm learning React Js, Next Js and Tailwind CSS
-- ⚡ Filipino Self-Taught Web Developer
+* 🏛️ I’m currently an Architecture Student
+* ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
+* 🧠 I'm learning React Js, Next Js and Tailwind CSS
+* ⚡ Filipino Self-Taught Web Developer
 
 <a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
