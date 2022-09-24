@@ -10,13 +10,11 @@ Here are some ideas to get you started:
 </h1>
 
 <h1 align="left">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-=======================
 
 Web Developer, Architectural Designer & Curious Learner
 --------------------------------------
 
 <h2> 👩‍💻 About Me </h2>
-
 * 🌍 I'm based in the Philippines
 - 🏛️ I’m currently an Architecture Student
 - ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
