@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 Web Developer, Architectural Designer & Curious Learner
 --------------------------------------
 
-<h2> 👩‍💻 About Me </h2>
+I am on an adventure delivering web applications and exploring technologies. 
 
 - 🌍 I'm based in the Philippines
 - 🏛️ I’m currently an Architecture Student
