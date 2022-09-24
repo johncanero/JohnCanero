@@ -121,13 +121,11 @@ The Odin Project
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/johncanero" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&langs_count=3&theme=react&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <a href="http://www.github.com/johncanero"><img src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="johncanero's GitHub stats" /></a>
 
 <a href="http://www.github.com/johncanero"><img src="https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1c1917&theme=react-dark&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
+<a href="http://www.github.com/johncanero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=johncanero&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 
