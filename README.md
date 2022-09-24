@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Web Developer, Architectural Designer & Curious Learner
+Web Developer & Architectural Designer
 --------------------------------------
 
 I am on an adventure delivering web applications and exploring technologies. 
