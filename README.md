@@ -99,6 +99,8 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 
 <a href="http://www.github.com/johncanero"><img src="https://github-readme-streak-stats.herokuapp.com/?user=johncanero&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?johncanero=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/johncanero"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
