@@ -20,10 +20,10 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h2> 👩‍💻 About Me </h2>
 
-- 🏛️ I’m interested in visual arts and architecture design
+- 🏛️ I’m currently an Architecture Student
 - 🌱 I love to explore and learn about the wonders of technologies
 - 💞️ Enjoying Web Development and building stuffs on the internet
-- 🎓 Self-Taught Web Developer
+- 🇵🇭 Filipino Self-Taught Web Developer
 
 <div> 
   <a href = "mailto:johncanero.official@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
