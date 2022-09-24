@@ -101,10 +101,6 @@ The Odin Project
  Started blogging on about investing on oneself, realizations & thoughts and life. 
 <br/>
 
-<br/>
-<h2> Vlogger at <a href="https://www.youtube.com/channel/UCc5-wuapiL6SGf1eTpiWEkg">Youtube</a> </h2>
- Started posting videos about design, creativity and investing. 
-<br/>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
