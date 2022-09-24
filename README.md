@@ -15,6 +15,7 @@ Web Developer, Architectural Designer & Curious Learner
 --------------------------------------
 
 <h2> 👩‍💻 About Me </h2>
+
 - 🌍 I'm based in the Philippines
 - 🏛️ I’m currently an Architecture Student
 - ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
