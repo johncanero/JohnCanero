@@ -51,7 +51,7 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 <h1> Development Projects </h1>
 
-React JS Projects - Scrimba (2022)
+React / Next JS Projects - Scrimba (2022)
 - Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
 - AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
