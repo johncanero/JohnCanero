@@ -90,17 +90,9 @@ The Odin Project
  
 
 <br/>
-<h2>Architectural Projects</h2>
-  Visit at <a href="https://www.instagram.com/johncanero.archi/">johncanero.archi</a> 
-
-  My architectural portfolio of works and design.
-<br/>
-
-<br/>
 <h2> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
  Started blogging on about investing on oneself, realizations & thoughts and life. 
 <br/>
-
 
 
 ### Badges
