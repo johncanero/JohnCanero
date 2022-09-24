@@ -89,13 +89,13 @@ The Odin Project
  - Band Name Generator - https://github.com/johncanero/BandName-Generator 
  
 
-<br/>
-<h2> Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
+
+### Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
  Started blogging on about investing on oneself, realizations & thoughts and life. 
-<br/>
 
 
-### Badges
+
+## Badges
 
 <b>My GitHub Stats</b>
 
