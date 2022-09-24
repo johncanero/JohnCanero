@@ -55,16 +55,15 @@ Web Developer, Architectural Designer & Curious Learner
 
 <h1> Development Projects </h1>
 
-FrontEnd Mentor (2022)
-- Product Review Component - September 2022 - https://charming-kheer-afc3a1.netlify.app/
-- Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
-
-
 React JS Projects - Scrimba (2022)
+- Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
 - AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
 - React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
 
+FrontEnd Mentor (2022)
+- Product Review Component - September 2022 - https://charming-kheer-afc3a1.netlify.app/
+- Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
 
 Udemy Web Development Bootcamp (2022)
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
@@ -90,16 +89,6 @@ The Odin Project
  Python 
  - Band Name Generator - https://github.com/johncanero/BandName-Generator 
  
- 
-
-<!-- 2022
- - Wiki-API - July 2022 - https://github.com/johncanero/Wiki-Api
- - BlogWebsite Jam - July 2022 - https://blog-dailyjournal-jam.herokuapp.com/
- - ToDoList: Jam - July 2022: https://todolist-productivityapp.herokuapp.com/
- - Newsletter - SignUp Page - July 2022: https://newsletter-signup-jam-heroku.herokuapp.com/
- - Healthy Jam - May 2022: https://johncanero.github.io/HealthyLivingJam/ (Needs Refactoring) -->
-
-
 
 <br/>
 <h2>Architectural Projects</h2>
