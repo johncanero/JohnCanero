@@ -10,20 +10,18 @@ Here are some ideas to get you started:
 </h1>
 
 <h1 align="left">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-
-I love building and creating stuffs. 💛 I am now in my senior year as an Architecture Student. It came to a point I want to use the skills and experiences I gained in the physical design field and use it in programming. 
-
-At the side, I focus on learning on the Web Development space. I am so much excited on the future and to learn this skills and show it up on the outside world. Let's keep going! ⛷️
+=======================
 
 Web Developer, Architectural Designer & Curious Learner
------------------------------
+--------------------------------------
 
 <h2> 👩‍💻 About Me </h2>
 
+* 🌍 I'm based in the Philippines
 - 🏛️ I’m currently an Architecture Student
-- 🌱 I love to explore and learn about the wonders of technologies
-- 💞️ Enjoying Web Development and building stuffs on the internet
-- 🇵🇭 Filipino Self-Taught Web Developer
+- ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
+- 🧠 I'm learning React Js, Next Js and Tailwind CSS
+- ⚡ Filipino Self-Taught Web Developer
 
 <a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
