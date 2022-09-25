@@ -59,7 +59,7 @@ React / Next JS Projects - Scrimba (2022)
 - React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
 
 FrontEnd Mentor (2022)
-- Product Review Component - September 2022 - https://charming-kheer-afc3a1.netlify.app/
+- Product Review Component - September 2022 - https://product-perfume-card-by-johncanero.vercel.app/
 - Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
 
 Udemy Web Development Bootcamp (2022)
