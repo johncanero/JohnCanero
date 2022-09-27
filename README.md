@@ -22,6 +22,7 @@ I am on an adventure delivering web applications and exploring technologies.
 - 🧠 I'm learning React Js, Next Js and Tailwind CSS
 - ⚡ Filipino Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
+- 🧐 Interested in Flutter and UI/UX Design
 
 <a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
