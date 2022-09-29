@@ -18,7 +18,7 @@ I am on an adventure delivering web applications and exploring technologies.
 
 - 🌍 I'm based in the Philippines
 - 🏛️ I’m currently an Architecture Student
-- ✉️ You can contact me at [johncanero]https://www.linkedin.com/in/johncanero/
+- ✉️ You can contact me at https://www.linkedin.com/in/johncanero/
 - 🧠 I'm learning React Js, Next Js and Tailwind CSS
 - ⚡ Filipino Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
