@@ -53,41 +53,20 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 <h1> Development Projects </h1>
 
-React / Next JS Projects - Scrimba (2022)
+- Product Shoe Card - September 2022 - https://shoe-product-card-by-johncanero.vercel.app/
 - Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
+
+
 - AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
 - Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
-- React JS Website - August 2022 - https://helpful-pika-bad6ad.netlify.app/
-
-FrontEnd Mentor (2022)
 - Product Review Component - September 2022 - https://product-perfume-card-by-johncanero.vercel.app/
 - Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
 
 Udemy Web Development Bootcamp (2022)
 - My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
 - Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
-- Number Adder - August 2022 - https://number-state-by-johncanero.vercel.app/
-- To Do List Project - August 2022 - https://to-do-list-ten-by-johncanero.vercel.app/
-- Keeper App Project - August 2022 - https://johncanero.github.io/keeper-app/
-- Get Time - August 2022 - https://get-time-state-by-johncanero.vercel.app/
-- Hello Welcome - August 2022 - https://hello-welcome-state-by-johncanero.vercel.app/
-- Hello Event - August 2022 - https://hello-event-handling-johncanero.vercel.app/
-- Login Flow - August 2022: https://fanciful-paprenjak-aeb3b6.netlify.app/
-- Piano Kit - June 2022: https://johncanero.github.io/PianoKit/
-- El Clasico - June 2022: https://johncanero.github.io/ElClasico/
-- Color Game Sequence - July 2022: https://johncanero.github.io/ColorSequenceGame/ 
-
-2022 
-- John Cañero - Curriculum Vitae(CV) - March 2022: https://johncanero.github.io/JohnCaneroCV/ 
-- John Cañero Website - CV 2.0 - April 2022: https://johncanero.github.io/JamWebsite/
-
-The Odin Project 
-- Rock, Paper, Scissors Game - July 2022: https://stalwart-blancmange-7ba347.netlify.app/
-
- Python 
- - Band Name Generator - https://github.com/johncanero/BandName-Generator 
  
- 
+
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
 Started blogging on about investing on oneself, realizations & thoughts and life. 
