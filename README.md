@@ -55,13 +55,7 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 - Product Shoe Card - September 2022 - https://shoe-product-card-by-johncanero.vercel.app/
 - Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
-- AirBnb Clone - September 2022 - https://airbnb-clone-by-johncanero.vercel.app/
-- Digital Business Card - August 2022 - https://genuine-conkies-8e82b0.netlify.app/
-- Product Review Component - September 2022 - https://product-perfume-card-by-johncanero.vercel.app/
-- Manage Landing Page - September 2022 - https://splendorous-cassata-a96886.netlify.app/
-- My Contacts: Football Icons - August 2022: https://my-contacts-by-johncanero.vercel.app/
-- Emojipedia - August 2022: https://emojipedia-by-johncanero.vercel.app/
- 
+
 
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
