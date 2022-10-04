@@ -77,14 +77,3 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 </table>
 
 ![John Cañero's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=0aa0ff&point=ffffff&area=true&count_private=true&)
-
-
-
-
-### Support Me
-<a href="https://www.buymeacoffee.com/johncanero"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
-
-
