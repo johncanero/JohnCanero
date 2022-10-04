@@ -68,15 +68,15 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 <table>
 <tr>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </td>
 <td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=johcanero&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="John Cañero's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
 </td>
 </tr>
 </table>
 
-![John Cañero's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
 
 
 
