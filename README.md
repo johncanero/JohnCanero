@@ -53,9 +53,9 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 <h1> Development Projects </h1>
 
-- Product Shoe Card - September 2022 - https://shoe-product-card-by-johncanero.vercel.app/
-- Travel Journal - September 2022 - https://travel-journal-johncanero.vercel.app/
-
+- Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
+- Travel Journal - https://travel-journal-johncanero.vercel.app/
+- AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
