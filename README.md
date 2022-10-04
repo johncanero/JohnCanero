@@ -68,7 +68,7 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 <table>
 <tr>
 <td>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=0aa0ff&bg_color=1d1f21langs_count=3)](https://github.com/johncanero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&langs_count=8)](https://github.com/johncanero/github-readme-stats)
 </td>
 <td>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0aa0ff&bg_color=1d1f21" alt="John Cañero's GitHub Stats"/>
