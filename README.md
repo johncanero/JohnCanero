@@ -76,7 +76,7 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 </tr>
 </table>
 
-![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+![John Cañero's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=0aa0ff&point=ffffff&area=true&count_private=true&)
 
 
 
