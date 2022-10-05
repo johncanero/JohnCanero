@@ -1,4 +1,4 @@
-[![](./github-banner.jpg)](https://linktr.ee/johncanero)
+<!--- ![](./github-banner.jpg)](https://linktr.ee/johncanero) -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
