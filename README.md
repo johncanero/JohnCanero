@@ -1,7 +1,4 @@
-<!--
-**johncanero/JohnCanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+[![](./github-header.jpg)](https://linktr.ee/johncanero)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
