@@ -52,6 +52,7 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 - Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
 - Travel Journal - https://travel-journal-johncanero.vercel.app/
+- Emojipedia - https://emojipedia-by-johncanero.vercel.app/
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
 
