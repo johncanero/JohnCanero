@@ -56,7 +56,7 @@ Commercial Cards
 
 Journal
 - Travel Journal - https://travel-journal-johncanero.vercel.app/
-- Digital Business Card - https://genuine-conkies-8e82b0.netlify.app/
+- Digital Business Card - https://digital-business-card-by-johncanero.vercel.app/
 
 Hobby Projects
 - Emojipedia - https://emojipedia-by-johncanero.vercel.app/
