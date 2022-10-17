@@ -50,6 +50,9 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 <h1> Development Projects </h1>
 
+Landing Page
+- https://remote-landing-page-by-johncanero.vercel.app/
+
 Commercial Cards
 - Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
