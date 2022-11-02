@@ -62,6 +62,7 @@ Journal
 - Digital Business Card - https://johncanero-digitalcard.vercel.app/
 
 Hobby Projects
+- Meme Generator Application - https://meme-generator-rose-by-johncanero.vercel.app/
 - Emojipedia - https://emojipedia-by-johncanero.vercel.app/
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
