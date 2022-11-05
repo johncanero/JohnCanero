@@ -63,6 +63,7 @@ Journal
 
 Hobby Projects
 - Meme Generator Application - https://meme-generator-rose-by-johncanero.vercel.app/
+- React About Page (Dark Mode Feature) - https://react-website-by-johncanero.vercel.app/
 - Emojipedia - https://emojipedia-by-johncanero.vercel.app/
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
