@@ -6,18 +6,18 @@
   </a>
 </h1>
 
-<h1 align="left">Hi , I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Web Developer & Architectural Designer
+React Developer & Architectural Designer
 --------------------------------------
 
 I am on an adventure delivering web applications and exploring technologies. 
 
-- 🌍 I'm based in the Philippines
+- 🌍 I'm Filipino based in the Philippines 🇵🇭
 - 🏛️ I’m currently an Architecture Student
 - ✉️ You can contact me at https://www.linkedin.com/in/johncanero/
 - 🧠 I'm learning React Js, Next Js, Typescript and Tailwind CSS
-- ⚡ Filipino Self-Taught Web Developer
+- ⚡ I'm a Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
 - 🧐 Interested in Flutter and UI/UX Design
 
