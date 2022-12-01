@@ -50,6 +50,10 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 <h1> Development Projects </h1>
 
+Website
+- John Cañero Website - https://johncanero-website.vercel.app/
+- Architecture News Website - https://architecture-news-website.vercel.app/
+
 Landing Page
 - Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
 
@@ -57,19 +61,9 @@ Commercial Cards
 - Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
-Journal
-- Travel Journal - https://travel-journal-johncanero.vercel.app/
-- Digital Business Card - https://johncanero-digitalcard.vercel.app/
-
-Hobby Projects
-- Meme Generator Application - https://meme-generator-rose-by-johncanero.vercel.app/
-- React About Page (Dark Mode Feature) - https://react-website-by-johncanero.vercel.app/
-- Emojipedia - https://emojipedia-by-johncanero.vercel.app/
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
 Started blogging on about investing on oneself, realizations & thoughts and life. 
-
-
 
 
 ## &#x1f4c8; Stats
