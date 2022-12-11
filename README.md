@@ -60,6 +60,7 @@ Landing Page
 
 Commercial Cards
 - Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
+- Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
 
