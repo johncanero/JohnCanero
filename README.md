@@ -1,11 +1,11 @@
 <!--- ![](./github-banner.jpg)](https://linktr.ee/johncanero) -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there!;+Nice+to+meet+you!+%3A)&size=30">
   </a>
 </h1>
-
+ -->
 <h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 React Developer & Architectural Designer
