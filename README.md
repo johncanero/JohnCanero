@@ -61,9 +61,12 @@ Landing Page
 - Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
 
 Commercial Cards
+- E-Commerce Product Page - https://tech-jam-by-johncanero.vercel.app/
 - Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
-- Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
+
+API Generator
+- Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
 
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
