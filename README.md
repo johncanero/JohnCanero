@@ -8,7 +8,7 @@
  -->
 <h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-React Developer & Architectural Designer
+Software Engineer, Web Developer & Architectural Designer
 --------------------------------------
 
 I am on an adventure delivering web applications and exploring technologies. 
