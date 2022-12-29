@@ -58,6 +58,7 @@ Website
 - Architecture News Website - https://architecture-news-website.vercel.app/
 
 Landing Page
+- Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
 - Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
 
 Commercial Cards
