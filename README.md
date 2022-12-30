@@ -74,16 +74,5 @@ API Generator
 Started blogging on about investing on oneself, realizations & thoughts and life. 
 
 
-## &#x1f4c8; Stats
-<table>
-<tr>
-<td>  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&title_color=ffffff&text_color=c9cacc&icon_color=0aa0ff&bg_color=1d1f21&hide=ejs&langs_count=4"/>
-</td>
-<td>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-</td>
-</tr>
-</table>
-
-[![John Cañero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johncanero&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="John Cañero's github stats" /></a> | <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
