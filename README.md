@@ -86,4 +86,4 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 </tr>
 </table>
 
-![John Cañero's Activity Graph](https://activity-graph.herokuapp.com/graph?username=johncanero&bg_color=1d1f21&color=ffffff&line=0aa0ff&point=ffffff&area=true&count_private=true&)
+[![John Cañero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johncanero00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
