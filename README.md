@@ -74,5 +74,5 @@ API Generator
 Started blogging on about investing on oneself, realizations & thoughts and life. 
 
 
-| <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="John Cañero's github stats" /></a> | <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero&show_icons=true&include_all_commits=true&theme=default&hide_border=true" alt="John Cañero's github stats" /></a> | <a href="https://github.com/johncanero/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&layout=compact&theme=default&hide_border=true" /></a> |
 | ------------- | ------------- |
