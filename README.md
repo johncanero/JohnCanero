@@ -86,4 +86,4 @@ Started blogging on about investing on oneself, realizations & thoughts and life
 </tr>
 </table>
 
-[![John Cañero's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johncanero00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
