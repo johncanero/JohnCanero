@@ -54,7 +54,7 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 <h1> Development Projects </h1>
 
 Website
-- John Cañero Website - https://johncanero-website.vercel.app/
+- John Cañero Website - https://johncanero.com/
 - Architecture News Website - https://architecture-news-website.vercel.app/
 
 Landing Page
@@ -67,6 +67,7 @@ Commercial Cards
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
 API Generator
+- WeatherCast: Weather App - https://github.com/johncanero/weather-app-react
 - Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
 
 
