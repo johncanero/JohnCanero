@@ -55,6 +55,7 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 
 Website
 - John Cañero Website - https://johncanero.com/
+- John Cañero Blog - https://johncanero-blog.vercel.app/
 - Architecture News Website - https://architecture-news-website.vercel.app/
 
 Landing Page
