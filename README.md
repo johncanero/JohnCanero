@@ -58,6 +58,10 @@ Website
 - John Cañero Blog - https://johncanero-blog.vercel.app/
 - Architecture News Website - https://architecture-news-website.vercel.app/
 
+Full Stack Applications
+- John Cañero Blog - https://johncanero-blog.vercel.app/
+- NewsFlasher Live News App - https://live-news-app-by-johncanero.vercel.app/
+
 Landing Page
 - Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
 - Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
