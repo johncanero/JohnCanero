@@ -60,7 +60,7 @@ Website
 
 Full Stack Applications
 - John Cañero Blog - https://johncanero-blog.vercel.app/
-- NewsFlasher Live News App - https://live-news-app-by-johncanero.vercel.app/
+- NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
 Landing Page
 - Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
