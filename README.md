@@ -73,7 +73,7 @@ Commercial Cards
 - AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
 
 API Generator
-- WeatherCast: Weather App - https://github.com/johncanero/weather-app-react
+- WeatherCast: Weather App - https://weathercast-app-react-by-johncanero.vercel.app/
 - Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
 
 
