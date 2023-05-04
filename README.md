@@ -56,14 +56,15 @@ src="https://img.shields.io/twitter/follow/johncaneroo?logo=twitter&style=for-th
 Website
 - John Cañero Website - https://johncanero.com/
 - John Cañero Blog - https://johncanero-blog.vercel.app/
-- Architecture News Website - https://architecture-news-website.vercel.app/
+- Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
+- (On-going) - https://github.com/johncanero/likha-design-agency
 
 Full Stack Applications
 - John Cañero Blog - https://johncanero-blog.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
 Landing Page
-- Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
+- Architecture News Website - https://architecture-news-website.vercel.app/
 - Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
 - Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
 
