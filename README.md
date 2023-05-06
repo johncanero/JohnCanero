@@ -57,7 +57,7 @@ Website
 - John Cañero Website - https://johncanero.com/
 - John Cañero Blog - https://johncanero-blog.vercel.app/
 - Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
-- Likha Design Agency - https://likha-design-agency.vercel.app/
+- Likha Design Agency - https://likha-design-agency-by-johncanero.vercel.app/
 
 Full Stack Applications
 - John Cañero Blog - https://johncanero-blog.vercel.app/
