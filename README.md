@@ -19,7 +19,7 @@ I am on an adventure delivering web applications and exploring technologies.
 - 🧠 I'm learning React Js, Next Js, Typescript and Tailwind CSS
 - ⚡ I'm a Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
-- 🧐 Interested in Flutter and UI/UX Design
+- 🧐 Interested in React Native, Flutter and UI/UX Design
 - 💻 Visit my website at: https://johncanero.com/
 
 <a href="https://www.twitter.com/johncaneroo" target="_blank" rel="noreferrer"><img
