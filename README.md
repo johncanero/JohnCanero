@@ -80,3 +80,5 @@ API Generator
 
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
 Started blogging on about investing on oneself, realizations & thoughts and life. 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johncanero&layout=compact)
