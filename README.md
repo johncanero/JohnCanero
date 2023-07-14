@@ -60,6 +60,7 @@ Website
 - Likha Design Agency - https://likha-design-agency-by-johncanero.vercel.app/
 
 Full Stack Applications
+- Sendoo Chat App - https://sendoo-chat-app.vercel.app/
 - John Cañero Blog - https://johncanero-blog.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
