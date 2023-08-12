@@ -62,6 +62,7 @@ Website
 Full Stack Applications
 - Sendoo Chat App - https://sendoo-chat-app.vercel.app/
 - John Cañero Blog - https://johncanero-blog.vercel.app/
+- Netflix Clone - https://netflix-streaming-service.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
 Landing Page
@@ -82,9 +83,3 @@ API Generator
 ## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
 Started blogging on about investing on oneself, realizations & thoughts and life. 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=johncanero" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncanero&layout=compact&langs_count=5&card_width=320" />
-</a>
