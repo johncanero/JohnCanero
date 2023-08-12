@@ -23,7 +23,7 @@ I am on an adventure delivering web applications and exploring technologies.
 
 ### How to reach me: 
 <a href="mailto: johncanero.official@gmail.com">
-<img src="https://img.shields.io/badge/-johncanero.official%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ## 💼 Tech Stack
 
