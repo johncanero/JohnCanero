@@ -9,7 +9,7 @@ Software Engineer, Web Developer & Architecture Designer
 I am on an adventure delivering web applications and exploring technologies. 
 
 - 🌍 I'm Filipino based in the Philippines 🇵🇭
-- 🏛️ I’m currently an Architecture Student
+- 🏛️ I’m am an Architecture Student
 - ✉️ You can contact me at: https://www.linkedin.com/in/johncanero/
 - 🧠 I'm learning React Js, Next Js, and Cloud Computing 
 - ⚡ I'm a Self-Taught Web Developer
