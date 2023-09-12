@@ -11,7 +11,7 @@ I am on an adventure delivering web applications and exploring technologies.
 - 🌍 I'm Filipino based in the Philippines 🇵🇭
 - 🏛️ I’m am an Architecture Student
 - ✉️ You can contact me at: https://www.linkedin.com/in/johncanero/
-- 🧠 I'm learning React Js, Next Js, and Cloud Computing 
+- 🧠 I'm learning React Js, Next Js, SvelteKit and Cloud Computing 
 - ⚡ I'm a Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
 - 🧐 Interested in React Native, Flutter, UI/UX Design and Cloud Computing 
