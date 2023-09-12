@@ -47,12 +47,14 @@ Website
 - Likha Design Agency - https://likha-design-agency-by-johncanero.vercel.app/
 
 Full Stack Applications
+- AuraTune - https://aura-tune.vercel.app/
 - Sendoo Chat App - https://sendoo-chat-app.vercel.app/
 - John Cañero Blog - https://johncanero-blog.vercel.app/
 - Netflix Clone - https://netflix-streaming-service.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
 Landing Page
+- ShapeShift: Your BMI Companion - https://shape-shift.vercel.app/
 - Architecture News Website - https://architecture-news-website.vercel.app/
 - Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
 - Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
