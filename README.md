@@ -54,6 +54,7 @@ Full Stack Applications
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
 Landing Page
+- Glider: Scooter Sharing Made Simple - https://glider-shadcn.vercel.app/
 - ShapeShift: Your BMI Companion - https://shape-shift.vercel.app/
 - Architecture News Website - https://architecture-news-website.vercel.app/
 - Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
