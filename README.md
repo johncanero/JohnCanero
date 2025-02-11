@@ -44,35 +44,40 @@ I am on a journey of lifelong learning.
 <h1> Development Projects </h1>
 
 Website
-- John Cañero Website - https://johncanero.com/
-- John Cañero Blog - https://johncanero-blog.vercel.app/
-- Upskill Hub - https://upskillhub-by-johncanero.vercel.app/
-- Likha Design Agency - https://likha-design-agency-by-johncanero.vercel.app/
+- Pamilya Market: https://pamilyamarket.vercel.app/
+- John Cañero Website: https://johncanero.com/
 
+Feature Projects
+- Upskill Hub: https://upskillhub-by-johncanero.vercel.app/
+- Glider: Scooter Sharing: https://glider-by-johncanero.vercel.app/
+- Lead Digital: https://lead-digital-by-johncanero.vercel.app/
+- Likha Design Agency: https://likha-design-agency-by-johncanero.vercel.app/
+- Architecture News: https://architecture-news-website.vercel.app/
+
+BMI Application
+- ShapeShift: Your BMI Companion: https://shape-shift.vercel.app/
+
+Weather Application
+- WeatherCast: Weather App: https://weathercast-app-react-by-johncanero.vercel.app/
+
+API Application
+- Advice Generator App: https://advice-generator-app-by-johncanero.vercel.app/
+  
+E-commerce 
+- TechJam - Product Page: https://tech-jam-by-johncanero.vercel.app/
+- ShoeCard - Product Page - https://shoe-product-card-by-johncanero.vercel.app/
+- AirBnb - Product Page - https://airbnb-clone-by-johncanero.vercel.app/
+
+Other Projects
+- Remote Landing Page: https://remote-landing-page-by-johncanero.vercel.app/
 Full Stack Applications
 - AuraTune - https://aura-tune.vercel.app/
 - Sendoo Chat App - https://sendoo-chat-app.vercel.app/
-- John Cañero Blog - https://johncanero-blog.vercel.app/
 - Netflix Clone - https://netflix-streaming-service.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 
-Landing Page
-- Glider: Scooter Sharing Made Simple - https://glider-shadcn.vercel.app/
-- ShapeShift: Your BMI Companion - https://shape-shift.vercel.app/
-- Architecture News Website - https://architecture-news-website.vercel.app/
-- Lead Digital Landing Page - https://lead-digital-by-johncanero.vercel.app/
-- Remote Landing Page - https://remote-landing-page-by-johncanero.vercel.app/
 
-Commercial Cards
-- E-Commerce Product Page - https://tech-jam-by-johncanero.vercel.app/
-- Product Nike Shoe Card - https://shoe-product-card-by-johncanero.vercel.app/
-- AirBnb Clone - https://airbnb-clone-by-johncanero.vercel.app/
-
-API Generator
-- WeatherCast: Weather App - https://weathercast-app-react-by-johncanero.vercel.app/
-- Advice Generator App - https://advice-generator-app-by-johncanero.vercel.app/
-
-
-## Blogger at <a href="https://medium.com/@johncanero">Medium</a> </h2>
-Started blogging on about investing on oneself, realizations & thoughts and life. 
+Blog
+- John Cañero Blog: https://johncanero-blog.vercel.app/
+Started blogging on about life, career, technology, investing, and self-realization.
 
