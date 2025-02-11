@@ -1,4 +1,4 @@
-[![@johncanero](https://raw.githubusercontent.com/johncanero/johncanero/main/assets/LinkBackgroundGithub2.jpg)](https://johncanero.com/)
+[![@johncanero](https://raw.githubusercontent.com/johncanero/johncanero/main/assets/Github_ProfileHeader_JohnCanero.jpg)](https://johncanero.com/)
 ------------------------------------------- 
 
 <h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
