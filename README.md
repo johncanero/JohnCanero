@@ -62,7 +62,8 @@ Weather Application
 
 API Application
 - Advice Generator App: https://advice-generator-app-by-johncanero.vercel.app/
-  
+
+<!--
 E-commerce 
 - TechJam - Product Page: https://tech-jam-by-johncanero.vercel.app/
 - ShoeCard - Product Page - https://shoe-product-card-by-johncanero.vercel.app/
@@ -75,7 +76,7 @@ Full Stack Applications
 - Sendoo Chat App - https://sendoo-chat-app.vercel.app/
 - Netflix Clone - https://netflix-streaming-service.vercel.app/
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
-
+-->
 
 Blog
 - John Cañero Blog: https://johncanero-blog.vercel.app/
