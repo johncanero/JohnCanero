@@ -3,18 +3,18 @@
 
 <h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Software Engineer, Web Developer & Architecture Designer
+Architecture Designer, BIM Architect & Web Developer
 --------------------------------------
 
-I am on an adventure delivering web applications and exploring technologies. 
+I am on a journey of lifelong learning. 
 
 - 🌍 I'm Filipino based in the Philippines 🇵🇭
-- 🏛️ I’m am an Architecture Designer
+- 🏛️ I am a BIM Architect currently expanding my expertise into data analysis, business strategy, and project management.
 - ✉️ You can contact me at: https://www.linkedin.com/in/johncanero/
-- 🧠 I'm learning React Js and Next Js. 
+- 🧠 I'm currently learning data analysis and gaining proficiency in tools like Excel, Power BI, and Tableau.
 - ⚡ I'm a Self-Taught Web Developer
 - ⚽ Hobbies: Reading Books, Football, Cycling, Running
-- 🧐 Interested in Data and Business Analytics, UI/UX Design and Cloud Computing 
+- 🧐 Interested in Data and Business Analytics and Cloud Computing
 - 💻 Visit my website at: https://johncanero.com/
 
 ## Socials 
