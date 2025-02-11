@@ -78,7 +78,6 @@ Full Stack Applications
 - NewsFlasher Live News App - https://newsflasher-bulletin-by-johncanero.vercel.app/
 -->
 
-Blog
+Blog (about life, career, technology, investing, and self-realization)
 - John Cañero Blog: https://johncanero-blog.vercel.app/
-Started blogging on about life, career, technology, investing, and self-realization.
 
