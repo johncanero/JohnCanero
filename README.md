@@ -3,7 +3,7 @@
 
 <h1 align="left">I'm Jam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
-Architecture Designer, BIM Architect & Web Developer
+Architecture Designer, BIM Architect, Web Developer & Data Analyst 
 --------------------------------------
 
 I am on a journey of lifelong learning. 
